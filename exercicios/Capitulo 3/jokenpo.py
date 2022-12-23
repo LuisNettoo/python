@@ -25,15 +25,15 @@ sleep(1)
 
 if computador == 0 and jogador == 2:
     print('O computador escolheu {} e você escolheu {}'.format(lista[computador], lista[jogador]))
-    print('Você perdeu!!!')
+    print('Você perdeu!')
 
 elif computador == 1 and jogador == 0:
     print('O computador escolheu {} e você escolheu {}'.format(lista[computador], lista[jogador]))
-    print('Você perdeu!!!')
+    print('Você perdeu!')
 
 elif computador == 2 and jogador == 1:
     print('O computador escolheu {} e você escolheu {}'.format(lista[computador], lista[jogador]))
-    print('Você perdeu!!!')
+    print('Você perdeu!')
 
 elif computador == 0 and jogador == 1:
     print('O computador escolheu {} e você escolheu {}'.format(lista[computador], lista[jogador]))
@@ -49,4 +49,4 @@ elif computador == 2 and jogador == 0:
 
 else:
     print('O computador escolheu {} e você escolheu {}'.format(lista[computador], lista[jogador]))
-    print('Empatou')
+    print('Empatou!')
