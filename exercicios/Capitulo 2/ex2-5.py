@@ -1,0 +1,1 @@
+print('Stephen Hawking certa vez disse: "O maior inimigo do conhecimento não é a ignorância, é a ilusão do conhecimento"')
